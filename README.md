@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas por formação atuando em Suporte Técnico`**
 
-Tenho 23 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Adventista do Sétimo Dia. Atualmente, sou graduado em Análise e Desenvolvimento de Sistemas pela UNIP. Apaixonado em viagens, musica e andar de bike, tenho um canal no youtube onde faço alguns Vlogs, e venho tentando me econtrar no imenso leque que é a tecnologia, criei o portfólio com a intenção de demonstrar alguns dos meus projetos e habilidades profissionais.
+Tenho 23 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Adevntista do Sétimo Dia. Atualmente, sou graduado em Análise e Desenvolvimento de Sistemas pela UNIP. Apaixonado em viagens, musica e andar de bike, tenho um canal no youtube onde faço alguns vlogs, também venho tentando me econtrar no imenso leque que é a tecnologia, atualmente exerço minha profissão na área de suporte e infraestrutura, criei o portfólio com a intenção de demonstrar alguns dos meus projetos exercidos em equipe e habilidades profissionais.
 
 Seeking to be enough, better than anyone 🌱
 
