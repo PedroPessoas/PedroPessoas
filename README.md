@@ -11,13 +11,6 @@ Seeking to be enough, better than anyone 🌱
 ## Contatos
 
 <div> 
-<a href="https://www.linkedin.com/in/pedro-pessoas/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-
-<a href="mailto:pepessoas@outlook.com?subject=Contato%20Profissional&body=Olá%20LPedro,%0A%0AVi%20seu%20perfil%20e%20gostaria%20de%20conversar%20sobre%20uma%20possível%20oportunidade.%0A%0AFico%20no%20aguardo.%0A%0AAtenciosamente," target="_blank">
-  <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
-<a href="https://www.instagram.com/pessoaspedro" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.linkedin.com/in/pedro-pessoas/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> <a href="mailto:pepessoas@outlook.com?subject=Contato%20Profissional&body=Olá%20LPedro,%0A%0AVi%20seu%20perfil%20e%20gostaria%20de%20conversar%20sobre%20uma%20possível%20oportunidade.%0A%0AFico%20no%20aguardo.%0A%0AAtenciosamente," target="_blank" ><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.instagram.com/pessoaspedro" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
 
