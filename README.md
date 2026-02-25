@@ -6,7 +6,7 @@ Tenho 23 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio 
 
 Seeking to be enough, better than anyone 🌱
 
-## Contato
+## Contatos
 
 <div> 
 <a href="https://www.linkedin.com/in/pedro-pessoas/" target="_blank">
