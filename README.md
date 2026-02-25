@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Olá, me chamo Pedro.
+# 👨🏽‍💻 Olá, me chamo Pedro
 
 **`Analista de Suporte Técnico com entregas em Redes e Infraestrutura`**
 
