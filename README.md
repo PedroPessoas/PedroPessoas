@@ -3,8 +3,10 @@
 **`Analista de Suporte Técnico com entregas em Redes e Infraestrutura`**
 
 Tenho 23 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Adevntista do Sétimo Dia. Graduado em Análise e Desenvolvimento de Sistemas pela UNIP. Apaixonado em viagens, musica e andar de bike, tenho um canal no youtube onde faço alguns vlogs "[Pedro Pessoas](https://www.youtube.com/@pessoaspedro)", também venho tentando me econtrar no imenso leque que é a tecnologia, atualmente exerço minha profissão na área de suporte, infraestrutura e redes, criei o portfólio para compartilhar alguns dos meus projetos feitos em equipe com os investimentos dispostos e habilidades profissionais.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Lucas">
 
 Seeking to be enough, better than anyone 🌱
+
 
 ## Contatos
 
@@ -17,9 +19,5 @@ Seeking to be enough, better than anyone 🌱
 
 <a href="https://www.instagram.com/pessoaspedro" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-
-
-
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Lucas">
